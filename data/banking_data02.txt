@@ -1,0 +1,78 @@
+Banking Q&A Dataset – 25 Detailed Questions & Answers for Vector Database
+
+1. How to open a bank account?
+To open a bank account, visit the bank branch or apply online. Provide identity proof (Aadhaar, PAN), address proof, passport-size photo, and complete the KYC form. Choose between savings or current account. After verification, the bank activates your account and issues a passbook, debit card, and cheque book if applicable.
+
+2. How to activate a bank account that is dormant?
+A dormant account is one with no activity for 2 years. To activate it, visit the branch with ID proof, submit a reactivation request form, and perform at least one small transaction like deposit or withdrawal. Some banks allow online reactivation via net banking.
+
+3. How to use an ATM card for the first time?
+Insert the card into the ATM, select your preferred language, enter the temporary PIN, and set a new PIN. You can then perform transactions like cash withdrawal, balance inquiry, mini statement, and PIN change.
+
+4. How to apply for a debit card?
+Debit cards are issued automatically with new accounts. For existing accounts, apply via branch, net banking, mobile app, or customer care. The bank delivers the card by post, and the PIN can be generated online or through IVR.
+
+5. How to apply for a credit card?
+Apply online through the bank website or visit a branch. You must submit identity proof, income proof (salary slip/ITR), and credit score details. Approval depends on eligibility factors such as income and credit history.
+
+6. How to transfer money using UPI?
+Install any UPI app, register your mobile number, create a UPI PIN, and link your bank account. To transfer money, enter the recipient's UPI ID or scan their QR code, enter the amount, and confirm using the UPI PIN.
+
+7. How to transfer money using NEFT?
+Login to net banking or mobile banking, add the recipient as a beneficiary using their name, account number, and IFSC code. After activation, initiate an NEFT transfer. NEFT works in half-hour batches and is available 24/7.
+
+8. How to transfer money using RTGS?
+RTGS is used for high-value transfers (generally above ₹2 lakh). Add the beneficiary and select the RTGS option. The transfer is processed instantly during bank working hours and is irreversible once executed.
+
+9. How to block a lost debit card?
+To block a lost debit card, immediately call customer care, use net banking/mobile banking, or visit the branch. Some banks also allow SMS-based blocking. After blocking, apply for a replacement card.
+
+10. How to update KYC details?
+Submit updated documents (Aadhaar, PAN, passport, etc.) at the branch or upload online through the KYC portal if available. Banks may request KYC refresh periodically, especially for high-value accounts.
+
+11. How to update a registered mobile number?
+Visit the ATM or branch depending on the bank. At the ATM, choose “Update Mobile Number” and follow verification steps. At the branch, submit a mobile update form and show ID proof.
+
+12. How to check account balance?
+Use ATMs, missed-call banking, USSD codes, mobile banking, net banking, or visit the branch. Most banks also send SMS alerts for every transaction.
+
+13. How to get a bank statement?
+Download via net banking or mobile app. You can also request a printed statement at the branch. Some banks allow emailing monthly statements automatically.
+
+14. How to deposit cash in a bank account?
+Deposit cash through the branch using a deposit slip or use Cash Deposit Machines (CDMs). Enter the account number and deposit cash— the machine counts and credits it instantly.
+
+15. How to withdraw cash without a debit card?
+Use cardless withdrawal via UPI apps or bank mobile apps. Generate a code, enter it at a compatible ATM, and withdraw cash securely.
+
+16. How to apply for a personal loan?
+Check eligibility online, upload documents (ID, income, bank statements), and apply through the bank portal. The bank verifies your credit score and income before approving and disbursing the loan.
+
+17. How to apply for a home loan?
+Visit the bank or apply online. Submit identity proof, income documents (ITR, salary slips), property documents, and bank statements. The bank evaluates the property and your credit score before sanctioning the loan.
+
+18. How to apply for an education loan?
+Provide admission proof from the university, academic records, co-borrower documents, and income proof. The bank reviews the institution's credibility and repayment capacity.
+
+19. How to enable international transactions on a debit card?
+Log in to mobile or internet banking, open card settings, and enable “International Usage”. You may also set transaction limits. Some cards require additional KYC or bank approval.
+
+20. How to dispute an unauthorized transaction?
+Report immediately through customer care, banking app, or branch. File a written dispute form. The bank investigates and credits the amount temporarily or permanently depending on findings.
+
+21. How to open a joint account?
+Submit KYC of both applicants along with a joint-account mandate form. Choose operating instructions like “Either or Survivor”. After verification, the account becomes active.
+
+22. How to open a fixed deposit?
+Use net banking, mobile banking, or visit the branch. Choose the deposit amount, tenure, interest payout frequency, and nominee. Once funded, you receive an FD receipt.
+
+23. How to add a nominee to a bank account?
+Submit the Nomination Registration Form at the branch or update online through net banking. Nominees help ensure smooth claim settlement after account holder’s death.
+
+24. How to close a bank account?
+Visit the branch with ID proof, submit an account closure form, return unused cheque leaves/debit card, and withdraw/transfer the remaining balance. Some banks allow partial digital initiation.
+
+25. How to use mobile banking safely?
+Avoid public Wi-Fi, enable app lock and biometric login, keep the app updated, never share OTP/PIN, and monitor transactions frequently. Enable real-time alerts for added safety.
+
+End of Document

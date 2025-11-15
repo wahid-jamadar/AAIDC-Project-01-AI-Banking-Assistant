@@ -1,0 +1,78 @@
+
+Banking Knowledge Base - Extended Text for Vector Database
+
+1. Introduction to Banking:
+Banking refers to the business activity of accepting and safeguarding money owned by individuals and entities, and then lending out this money in order to earn a profit. Banks provide various financial services such as loans, deposits, credit cards, remittances, and investment products.
+
+2. Types of Banks:
+- Commercial Banks: Offer deposit accounts, loans, and basic financial services.
+- Cooperative Banks: Member-owned institutions providing credit and banking services.
+- Payment Banks: Accept limited deposits and offer remittance services.
+- Central Bank: Regulates monetary policy and banking system (e.g., RBI).
+- Regional Rural Banks: Serve rural areas with banking and credit needs.
+
+3. Banking Products:
+Savings Account: Interest-bearing deposit account for individuals.
+Current Account: Non-interest account for business transactions.
+Fixed Deposit (FD): Deposit with a fixed term and interest rate.
+Recurring Deposit (RD): Monthly deposit scheme with steady interest.
+Loan Types: Home loans, personal loans, vehicle loans, business loans, education loans.
+Credit Cards: Revolving credit line for purchases and payments.
+
+4. Banking Processes:
+KYC (Know Your Customer): Mandatory verification process using ID proof, address proof, and biometrics.
+NEFT (National Electronic Funds Transfer): Batch-wise fund transfer system.
+RTGS (Real-Time Gross Settlement): Instant high-value fund transfer.
+IMPS (Immediate Payment Service): Real-time fund transfer available 24/7.
+UPI (Unified Payments Interface): Mobile-based instant fund transfer system.
+
+5. Banking Security:
+Two-Factor Authentication (2FA): Combination of password and OTP.
+Encryption: Protects sensitive data during transmission.
+Fraud Detection Systems: AI/ML-based systems to detect fraudulent transactions.
+Customer Awareness: Advisories to avoid phishing, vishing, and sharing sensitive details.
+
+6. Banking Regulations:
+Regulated by RBI under Banking Regulation Act.
+Basel Norms: International regulatory framework for risk management.
+AML (Anti-Money Laundering): Rules to prevent illegal money laundering.
+CRR (Cash Reserve Ratio): Percentage of deposits banks must keep with RBI.
+SLR (Statutory Liquidity Ratio): Minimum percentage of assets held in liquid form.
+
+7. Customer Service:
+Banks provide grievance redressal through customer care, email support, chatbots, and escalation matrix including Ombudsman.
+Customers can request services such as statement downloads, cheque book, debit card replacement, loan updates, and interest certificates.
+
+8. Digital Banking:
+Internet Banking: Online portal for transactions and services.
+Mobile Banking: Banking apps for transfers, bill payments, investments.
+E-KYC: Paperless digital KYC verification.
+Chatbots: AI-powered assistants for 24/7 support.
+E-Mandates: Automated recurring payment authorization.
+
+9. Banking Risks:
+Credit Risk: Borrower defaults on repayment.
+Market Risk: Loss due to market fluctuations.
+Operational Risk: System failures or human errors.
+Liquidity Risk: Inability to meet short-term obligations.
+Cybersecurity Risk: Online threats, hacking attempts.
+
+10. Financial Terms:
+Interest Rate: Charge for borrowing money.
+EMI (Equated Monthly Installment): Fixed monthly loan repayment.
+Collateral: Asset pledged for securing a loan.
+Net Banking: Online access to account services.
+SWIFT Code: International bank identification code.
+IFSC Code: Unique code used for domestic bank transfers.
+
+11. Compliance & Governance:
+Banks must follow guidelines on data privacy, customer rights, fair lending, ethical recovery practices, internal audits, and risk management policies.
+
+12. Example Use Cases:
+- Customer onboarding using digital KYC.
+- Loan approval automation using credit scores.
+- Fraud detection using machine learning.
+- Chatbot-based customer service for FAQs.
+- Document verification using OCR.
+
+This dataset can be extended with more entries as needed for vector database ingestion.
