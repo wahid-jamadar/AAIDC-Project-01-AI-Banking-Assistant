@@ -61,7 +61,7 @@ Your RAG assistant can:
 ## 📦 **Project Structure**
 
 ```
-Module_01_Project_01/
+AAIDC-Project-01-AI-Banking-Assistant/
 ├── src/
 │   ├── app.py            # Main RAG engine
 │   └── vectordb.py       # Chroma + Embeddings + Chunking + Search
